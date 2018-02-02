@@ -1,0 +1,8 @@
+---
+buildName: "alex5"
+links:
+  Git: "https://github.com/AlexanderOwen-MeehanWork/alex5.git"
+  Job: "http://10.0.0.55:80/job/alex5"
+environments:
+  Testing: "devopsns-testing"
+useLocalFlow: true
